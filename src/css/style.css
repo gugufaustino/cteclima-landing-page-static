@@ -12,6 +12,10 @@ body {
     font-family: 'Open Sans', helvetica, arial, sans-serif;
 }
 
+body, html {
+    overflow-x: hidden;
+}
+
 span.navy {
     color: #1190cb;
 }
